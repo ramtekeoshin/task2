@@ -1,0 +1,6 @@
+"practice_id","name","gender","feedback","active_status","event_date","event_time","phone","age","city"
+1,"rohan","male  ","good man",True,"2024-09-24","12:34:23","677764676",53,"mumbai"
+2,"rasika","female","good woman",True,"2024-09-24","12:34:23","677764676",53,"nagpur"
+3,"rknh","female","good",True,"2024-09-24","12:34:23","677764676",53,"nagpur"
+5,"anchal","female","boy",True,"2024-09-24","12:34:23","677764676",53,"pune"
+6,"anch","male  ","girl",True,"2024-09-24","12:34:23","677764676",53,"pune"
