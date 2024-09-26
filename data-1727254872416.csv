@@ -1,0 +1,3 @@
+"employeeid","firstname","lastname","email","phonenumber","hiredate","salary","departmentid","is_active","jobtitle"
+7,"Aditi","Sharma","aditi@gmail.com","765342983","2023-07-15","65000.00",8,True,"Software Engineer"
+14,"Ajay","bansal","ajay@gmail.com","9874652137","2024-08-13","70000.00",2,True,"Data Analyst"

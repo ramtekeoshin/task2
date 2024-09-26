@@ -1,0 +1,13 @@
+"employeeid","name","surname","email","phonenumber","hiredate","salary","departmentid","is_active","jobtitle","state"
+1,"rohan","gaikwad","rohan1@gmail.com","7436466","2024-04-11","12345678.32",0,False,"marketing",NULL
+2,"sakshi","lutre","sakshi1@gmail.com","7436466","2024-04-11","12345678.32",0,False,"HR",NULL
+3,"Kinjal","lahore","kinjal1@gmail.com","743766466","2024-04-13","12345678.32",0,False,"Finance",NULL
+4,"chhaya","meshram","chhaya1@gmail.com","7437646466","2023-04-13","12345678.32",0,False,"IT",NULL
+6,"megha","maholtra","megha1@gmail.com","74373646466","2023-06-13","12345678.32",0,False,"Btech",NULL
+7,"Aditi","Sharma","aditi@gmail.com","765342983","2023-07-15","65000.00",8,True,"Software Engineer",NULL
+8,"Priya","singh","priya@gmail.com","985045389","2023-09-12","52488.00",0,False,"Financial Analyst",NULL
+9,"Sameer","patel","sameer@gmail.com","9834257982","2023-07-19","35000.00",7,True,"QA Engineer",NULL
+10,"Kavita","mehta","mehta1@gmail.com","984753265","2024-05-13","25000.00",0,False,"Marketing Executive",NULL
+12,"Vikram","joshi","jsohi@gmail.com","98472876677","2021-06-13","76865.76",0,False,"HR Manager",NULL
+13,"Pankaj","deshmukh","desh@gmail.com","9234617657","2022-06-15","78990.00",0,False,"Recruitment Specialist",NULL
+15,"Divya","agrawal","divya@gmail.com","98756432135","2021-04-13","42000.00",0,False,"Content Writer",NULL

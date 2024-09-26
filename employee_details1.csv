@@ -1,0 +1,7 @@
+employeeid,firstname,lastname,email,phonenumber,hiredate,salary,departmentid,is_active,jobtitle
+1,rohan,gaikwad,rohan1@gmail.com,7436466,11-04-2024,12345678.32,3,FALSE,marketing
+2,sakshi,lutre,sakshi1@gmail.com,7436466,11-04-2024,12345678.32,4,FALSE,HR
+3,Kinjal,lahore,kinjal1@gmail.com,743766466,13-04-2024,12345678.32,5,FALSE,Finance
+4,chhaya,meshram,chhaya1@gmail.com,7437646466,13-04-2023,12345678.32,5,FALSE,IT
+5,roshni,ramtek,roshni1@gmail.com,74373646466,13-05-2023,12345678.32,5,TRUE,Agriculture
+6,megha,maholtra,megha1@gmail.com,74373646466,13-06-2023,12345678.32,6,FALSE,Btech
